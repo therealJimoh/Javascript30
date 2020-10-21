@@ -24,7 +24,7 @@
         // Error :|
         console.error('yeh');
 
-        // Info
+        // Info:
         console.info('human need 8hrs sleep a day');
 
         // Testing
